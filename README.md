@@ -27,7 +27,7 @@ Think of MCP as a **universal travel power adapter** — it lets you plug into a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/slack-summary-bot.git
+git clone git@github.com:ORC-1/mcp-chatgpt-slack-bot.git
 cd slack-summary-bot
 ```
 

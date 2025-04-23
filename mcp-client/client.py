@@ -97,7 +97,7 @@ class MCPClient:
         """Run an interactive chat loop"""
         print("\nMCP Client Started!")
         print("Summarizing message for selected Channel...")
-        channel_name = "ghabie-all"
+        channel_name = ""
         if channel_name == "":
             print("Channel name to summarize needed. Kindly add.")
             sys.exit(1)
@@ -126,7 +126,7 @@ class MCPClient:
 async def run_once():
     client = MCPClient()
     try:
-        mcp_server_path = "/Users/user/Documents/refresh_courses/python/mcp/mcp-server/main.py"
+        mcp_server_path = ""
         if mcp_server_path == "":
             print("MCP server path needed. Kindly add.")
             sys.exit(1)
