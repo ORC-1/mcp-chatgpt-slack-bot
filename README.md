@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 4. Create a Slack Bot
 
 Follow the steps in this guide to get your `SLACK_BOT_TOKEN`:  
-👉 [Slack Bot Setup Instructions](#) *(replace with your actual link)*
+👉 [Slack Bot Setup Instructions](#) *https://github.com/modelcontextprotocol/servers/tree/main/src/slack*
 
 ---
 
