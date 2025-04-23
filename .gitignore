@@ -1,0 +1,7 @@
+.idea
+**/.env
+.env
+venv/
+**/logs.txt
+logs.txt
+**/.DS_Store
